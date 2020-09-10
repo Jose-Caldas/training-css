@@ -1,0 +1,122 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+}
+.container {
+   
+    width: 967px;
+    height: 604px;
+    border: 25px solid #f0f2fb;
+    background: #ffffff;
+    margin: auto;
+    display: flex;
+}
+img {
+    width: 30px;
+    position: absolute;
+    margin-left: -250px;
+    margin-top: 6px;
+}
+.text {
+    width: 300px;
+    height: 44px;
+    background: #ffffff;
+    border: 1px solid #dae1f5;
+    border-radius: 5px;
+}
+.dados {
+    margin: 95px;
+}
+.dados h1 {
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    margin-top: 20px;
+    color: #545d7a;
+}
+.dados h2 {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: left;
+    color: #10182f;
+}
+.email {
+    width: 300px;
+    height: 44px;
+    margin-bottom: 43.75px;
+    padding-left: 10px;
+    background: #ffffff;
+    border: 1px solid #dae1f5;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #545d7a;
+}
+.password {
+    width: 300px;
+    height: 44px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    background: #ffffff;
+    border: 1px solid #dae1f5;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #545d7a;
+}
+.confirm {
+    display: flex;
+    justify-content: space-between;
+}
+.confirm p {
+    font-size: 14px;
+    line-height: 18px;
+    text-align: right;
+    color: #306bf3;
+}
+.confirm span {
+    font-size: 14px;
+    line-height: 18px;
+    color: #545d7a;
+    margin-left: -50px;
+}
+.check {
+    width: 18px;
+    height: 18px;
+    margin-bottom: 30px;
+}
+.text2 {
+    width: 300px;
+    height: 44px;
+    background: #10182f;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 56.25px;
+}
+h2 span {
+    color: #306bf3;
+}
+.info {
+    margin: 75px;
+}
+.info-form i {
+    color: #306bf3;
+    padding-right: 21px;
+}
+.info-form h1 {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    color: #10182f;
+    margin-bottom: 5px;
+}
+.info-form p {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    color: #10182f;
+    margin-bottom: 50px;
+}
